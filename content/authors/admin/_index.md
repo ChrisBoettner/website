@@ -1,6 +1,7 @@
 ---
 role: PhD Student at Kapteyn Astronomical Institute, University of Groningen,
   The Netherlands
+avatar_filename: pic_squared.png
 bio: ""
 interests:
   - Artificial Intelligence
