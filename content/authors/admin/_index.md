@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: pic_squared.png
+avatar_filename: https://www.astro.rug.nl/PORTRAITS/1652.jpg
 bio: ""
 interests: []
 social:
