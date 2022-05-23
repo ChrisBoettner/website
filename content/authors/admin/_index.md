@@ -1,12 +1,8 @@
 ---
-role: PhD Student at Kapteyn Astronomical Institute, University of Groningen,
-  The Netherlands
+role: PhD Student
 avatar_filename: pic_squared.png
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +14,7 @@ social:
     icon_pack: fab
     link: https://github.com/ChrisBoettner
 organizations:
-  - name: Kapteyn Astronomical Institute, University of Groningen
+  - name: Kapteyn Astronomical Institute, University of Groningen, The Groningen
     url: https://www.rug.nl/research/kapteyn/
 education:
   courses:
