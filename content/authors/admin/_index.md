@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://github.com/ChrisBoettner
 organizations:
-  - name: Kapteyn Astronomical Institute, University of Groningen, The Groningen
+  - name: Kapteyn Astronomical Institute, University of Groningen, The Netherlands
     url: https://www.rug.nl/research/kapteyn/
 education:
   courses:
