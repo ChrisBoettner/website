@@ -1,6 +1,6 @@
 ---
 role: PhD Student
-avatar_filename: https://www.astro.rug.nl/PORTRAITS/1652.jpg
+avatar_filename: 1652.png
 bio: ""
 interests: []
 social:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.rug.nl/research/kapteyn/
 education:
   courses:
-    - course: PhD in Astrophysics
+    - course: PhD in Astrophysics (ongoing)
       institution: University of Groningen
       year: ""
     - course: MSc in Physics
