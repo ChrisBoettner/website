@@ -24,7 +24,7 @@ education:
     - course: MSc in Physics
       institution: Humboldt University of Berlin/Potsdam Institute for Climate Impact
         Research, Germany
-      year: 2029
+      year: 2021
     - course: BSc in Physics
       institution: Humboldt University of Berlin/Leibniz Institute for Astrophysics
         Potsdam, Germany
