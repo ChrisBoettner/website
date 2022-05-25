@@ -25,6 +25,12 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
+## CUSTOM CSS
+############################
+
+customCSS: style.css
+
+############################
 ## ADVANCED
 ############################
 
