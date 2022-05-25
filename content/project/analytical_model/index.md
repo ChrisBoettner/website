@@ -26,3 +26,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: //
 ---
+
+\begin{equation}
+a x +b
+\end{equation}
